@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-!(/img/Landing_1.png)
+!(/img/lighthouse_4140.PNG.JPG)
 
-Fine tune mission statement/insert more information about the site.
+Test that markdown text works 
 
 
 [jekyll-organization]: https://github.com/jekyll
